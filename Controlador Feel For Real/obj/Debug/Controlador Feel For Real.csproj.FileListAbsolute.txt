@@ -1,0 +1,41 @@
+C:\Users\Daenzell\source\repos\Controlador Feel For Real\Controlador Feel For Real\bin\Debug\Controlador Feel For Real.exe.config
+C:\Users\Daenzell\source\repos\Controlador Feel For Real\Controlador Feel For Real\bin\Debug\Controlador Feel For Real.exe
+C:\Users\Daenzell\source\repos\Controlador Feel For Real\Controlador Feel For Real\bin\Debug\Controlador Feel For Real.pdb
+C:\Users\Daenzell\source\repos\Controlador Feel For Real\Controlador Feel For Real\obj\Debug\Controlador Feel For Real.csprojAssemblyReference.cache
+C:\Users\Daenzell\source\repos\Controlador Feel For Real\Controlador Feel For Real\obj\Debug\MainWindow.g.cs
+C:\Users\Daenzell\source\repos\Controlador Feel For Real\Controlador Feel For Real\obj\Debug\App.g.cs
+C:\Users\Daenzell\source\repos\Controlador Feel For Real\Controlador Feel For Real\obj\Debug\Controlador Feel For Real_MarkupCompile.cache
+C:\Users\Daenzell\source\repos\Controlador Feel For Real\Controlador Feel For Real\obj\Debug\Controlador Feel For Real_MarkupCompile.lref
+C:\Users\Daenzell\source\repos\Controlador Feel For Real\Controlador Feel For Real\obj\Debug\MainWindow.baml
+C:\Users\Daenzell\source\repos\Controlador Feel For Real\Controlador Feel For Real\obj\Debug\Controlador Feel For Real.g.resources
+C:\Users\Daenzell\source\repos\Controlador Feel For Real\Controlador Feel For Real\obj\Debug\Controlador_Feel_For_Real.Properties.Resources.resources
+C:\Users\Daenzell\source\repos\Controlador Feel For Real\Controlador Feel For Real\obj\Debug\Controlador Feel For Real.csproj.GenerateResource.cache
+C:\Users\Daenzell\source\repos\Controlador Feel For Real\Controlador Feel For Real\obj\Debug\Controlador Feel For Real.csproj.CoreCompileInputs.cache
+C:\Users\Daenzell\source\repos\Controlador Feel For Real\Controlador Feel For Real\obj\Debug\Controlador Feel For Real.exe
+C:\Users\Daenzell\source\repos\Controlador Feel For Real\Controlador Feel For Real\obj\Debug\Controlador Feel For Real.pdb
+C:\Users\Daenzell\source\repos\Controlador Feel For Real\Controlador Feel For Real\bin\Debug\EMCHid.pdb
+C:\Users\Daenzell\source\repos\Controlador Feel For Real\Controlador Feel For Real\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Daenzell\source\repos\Controlador Feel For Real\Controlador Feel For Real\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Daenzell\source\repos\Controlador Feel For Real\Controlador Feel For Real\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Daenzell\source\repos\Controlador Feel For Real\Controlador Feel For Real\obj\Debug\App.baml
+C:\Users\Daenzell\source\repos\Controlador Feel For Real\Controlador Feel For Real\obj\Debug\Controlador Feel For Real.csproj.CopyComplete
+C:\Users\Daenzell\source\repos\Controlador Feel For Real\Controlador Feel For Real\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Daenzell\source\repos\Controlador Feel For Real\Controlador Feel For Real\bin\Debug\Portable.Licensing.dll
+C:\Users\Daenzell\source\repos\Controlador Feel For Real\Controlador Feel For Real\bin\Debug\Portable.Licensing.xml
+B:\OneDrivers\Firmwares F4R\Final_Stable\Update 31.08.19 fix inertia text\Source code\Controlador Feel For Real\Controlador Feel For Real\Controlador Feel For Real\bin\Debug\Controlador Feel For Real.exe.config
+B:\OneDrivers\Firmwares F4R\Final_Stable\Update 31.08.19 fix inertia text\Source code\Controlador Feel For Real\Controlador Feel For Real\Controlador Feel For Real\bin\Debug\Controlador Feel For Real.exe
+B:\OneDrivers\Firmwares F4R\Final_Stable\Update 31.08.19 fix inertia text\Source code\Controlador Feel For Real\Controlador Feel For Real\Controlador Feel For Real\bin\Debug\Controlador Feel For Real.pdb
+B:\OneDrivers\Firmwares F4R\Final_Stable\Update 31.08.19 fix inertia text\Source code\Controlador Feel For Real\Controlador Feel For Real\Controlador Feel For Real\obj\Debug\MainWindow.g.cs
+B:\OneDrivers\Firmwares F4R\Final_Stable\Update 31.08.19 fix inertia text\Source code\Controlador Feel For Real\Controlador Feel For Real\Controlador Feel For Real\obj\Debug\App.g.cs
+B:\OneDrivers\Firmwares F4R\Final_Stable\Update 31.08.19 fix inertia text\Source code\Controlador Feel For Real\Controlador Feel For Real\Controlador Feel For Real\obj\Debug\GeneratedInternalTypeHelper.g.cs
+B:\OneDrivers\Firmwares F4R\Final_Stable\Update 31.08.19 fix inertia text\Source code\Controlador Feel For Real\Controlador Feel For Real\Controlador Feel For Real\obj\Debug\Controlador Feel For Real_MarkupCompile.cache
+B:\OneDrivers\Firmwares F4R\Final_Stable\Update 31.08.19 fix inertia text\Source code\Controlador Feel For Real\Controlador Feel For Real\Controlador Feel For Real\obj\Debug\Controlador Feel For Real_MarkupCompile.lref
+B:\OneDrivers\Firmwares F4R\Final_Stable\Update 31.08.19 fix inertia text\Source code\Controlador Feel For Real\Controlador Feel For Real\Controlador Feel For Real\obj\Debug\App.baml
+B:\OneDrivers\Firmwares F4R\Final_Stable\Update 31.08.19 fix inertia text\Source code\Controlador Feel For Real\Controlador Feel For Real\Controlador Feel For Real\obj\Debug\MainWindow.baml
+B:\OneDrivers\Firmwares F4R\Final_Stable\Update 31.08.19 fix inertia text\Source code\Controlador Feel For Real\Controlador Feel For Real\Controlador Feel For Real\obj\Debug\Controlador Feel For Real.g.resources
+B:\OneDrivers\Firmwares F4R\Final_Stable\Update 31.08.19 fix inertia text\Source code\Controlador Feel For Real\Controlador Feel For Real\Controlador Feel For Real\obj\Debug\Controlador_Feel_For_Real.Properties.Resources.resources
+B:\OneDrivers\Firmwares F4R\Final_Stable\Update 31.08.19 fix inertia text\Source code\Controlador Feel For Real\Controlador Feel For Real\Controlador Feel For Real\obj\Debug\Controlador Feel For Real.csproj.GenerateResource.cache
+B:\OneDrivers\Firmwares F4R\Final_Stable\Update 31.08.19 fix inertia text\Source code\Controlador Feel For Real\Controlador Feel For Real\Controlador Feel For Real\obj\Debug\Controlador Feel For Real.csproj.CopyComplete
+B:\OneDrivers\Firmwares F4R\Final_Stable\Update 31.08.19 fix inertia text\Source code\Controlador Feel For Real\Controlador Feel For Real\Controlador Feel For Real\obj\Debug\Controlador Feel For Real.exe
+B:\OneDrivers\Firmwares F4R\Final_Stable\Update 31.08.19 fix inertia text\Source code\Controlador Feel For Real\Controlador Feel For Real\Controlador Feel For Real\obj\Debug\Controlador Feel For Real.pdb
+B:\OneDrivers\Firmwares F4R\Final_Stable\Update 31.08.19 fix inertia text\Source code\Controlador Feel For Real\Controlador Feel For Real\Controlador Feel For Real\obj\Debug\Controlador Feel For Real.csproj.CoreCompileInputs.cache
